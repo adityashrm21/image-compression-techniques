@@ -13,4 +13,4 @@ This repository contains code for image compression using:
 
 Use Deep Learning (RNNs) for compressing images particularly, the implementation of this paper by Google:
 
-[George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel Shor, Michele Covell, Full Resolution Image Compression with Recurrent Neural Networks](https://arxiv.org/abs/1608.05148)
+[George Toderici, Damien Vincent, Nick Johnston, Sung Jin Hwang, David Minnen, Joel Shor, Michele Covell, Full Resolution Image Compression with Recurrent Neural Networks, July 2017](https://arxiv.org/abs/1608.05148)
